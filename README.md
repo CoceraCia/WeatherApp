@@ -54,3 +54,8 @@ It greets the user personally and provides daily motivation with a positive mess
    - Open the project in Android Studio.
    - Select a device or emulator.
    - Click Run ▶️.
+
+## 📽️ Video Demo
+[![Demo Short](https://img.youtube.com/vi/dEUotsC0_1Y/maxresdefault.jpg)](https://youtube.com/shorts/dEUotsC0_1Y?si=LCIAFPXqKwg8w7nk)
+
+
